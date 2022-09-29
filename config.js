@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
+global.owner = ['50941411147']
+global.ownernomer = "50941411147"
+global.premium = ['50941411147']
+global.packname = 'Sticker  Andy'
+global.author = 'ANDY-BOT-V1''
 global.sessionName = 'nazedev'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -41,7 +41,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 60
 }
 global.thumb = fs.readFileSync('./lib/naze.png')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
